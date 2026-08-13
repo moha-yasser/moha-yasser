@@ -4,9 +4,9 @@
 
 I work with data to uncover insights, understand patterns, and turn raw data into meaningful, data-driven solutions. I'm particularly interested in **Machine Learning** and **Classical NLP**, where I enjoy applying statistical and computational approaches to real-world problems.
 
-My experience includes working on data analysis, exploratory data analysis, machine learning, and Classical NLP projects, with a strong focus on understanding the data, building effective models, and evaluating their performance.
+My experience includes working on **data science, exploratory data analysis, machine learning, and Classical NLP projects**, with a strong focus on understanding the data, building effective models, and evaluating their performance.
 
-🚀 **Turning data into insights, and insights into solutions.**
+**Turning data into insights, and insights into solutions.**🚀 
 
 
 # 💻 Tech Stack:
