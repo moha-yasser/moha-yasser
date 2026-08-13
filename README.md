@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I'm Mohamed. I'm focused on **Data Science and Data Analysis**, with a strong interest in **Natural Language Processing (NLP)**.<br><br>I enjoy working with data to uncover insights, identify patterns, and solve real-world problems using data-driven approaches.<br><br>I've started exploring NLP through **Classical NLP and traditional machine learning techniques**, and I'm continuously developing my skills through hands-on projects and practical applications.<br><br>I'm always learning, building, and improving. 🚀<br>
+
+👋 Hi, I'm Moha, focused on **Data Science and Data Analysis**, with a strong interest in **Natural Language Processing (NLP)**.
+
+I work with data to uncover insights, understand patterns, and turn raw data into meaningful, data-driven solutions. I'm particularly interested in **Machine Learning** and **Classical NLP**, where I enjoy applying statistical and computational approaches to real-world problems.
+
+My work combines **data analysis, machine learning, and practical problem-solving**, with a focus on building projects that turn data into actionable insights.
+
+🚀 **Turning data into insights, and insights into solutions.**
 
 
 # 💻 Tech Stack:
